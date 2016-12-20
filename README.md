@@ -23,6 +23,7 @@ iOS 开发中，总是会看到比较有意思的东西，不断去学习，不�
     - [LLDB](#LLDB)
     - [调试打包日志测试持续集成](#调试打包日志测试持续集成)
     - [证书推送上架](#证书推送上架)
+    - [版本管理](#版本管理)
     - [Blog](#Blog)
     - [iOS代码库](#iOS代码库)
     - [XCode插件](#XCode插件)
@@ -232,6 +233,10 @@ iOS 开发中，总是会看到比较有意思的东西，不断去学习，不�
 * [ios 如何判断是点击推送信息进入还是点击app图标进入程序](http://zhidao.baidu.com/link?url=QuZ9WZqZdHngaTSnao6-oZggHIw_f2KoSBj1-wu7cRZg2S7ytMATyGp-PnwtQOp90QgqKJ_Lk7e6lSmhf03tb-GIKgWmW9Zsu6sG2chMk3O)
 * [史上最用心的iOS App上架流程](http://www.jianshu.com/p/16fa56eacb5e)
 * [理解 iOS 应用程序的代码签名机制](https://zhuanlan.zhihu.com/p/23659530)
+
+#### 版本管理
+* [CornerStone配置SVN](https://my.oschina.net/joanfen/blog/194491)
+* [SVN 的使用](http://www.jianshu.com/p/94498251c7c8)
 
 #### Blog
 * [OneV's Den](https://onevcat.com/)
