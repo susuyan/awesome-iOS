@@ -29,6 +29,8 @@ iOS 开发中，总是会看到比较有意思的东西，不断去学习，不�
     - [XCode插件](#XCode插件)
     - [Bug Fix](#Bug Fix)
     - [其他](#其他)
+
+- [HTTPS适配](#HTTPS适配)
 - [iOS逆向工程](#iOS逆向工程)
     - [Reveal](#Reveal)
     
@@ -237,7 +239,7 @@ iOS 开发中，总是会看到比较有意思的东西，不断去学习，不�
 #### 版本管理
 * [CornerStone配置SVN](https://my.oschina.net/joanfen/blog/194491)
 * [SVN 的使用](http://www.jianshu.com/p/94498251c7c8)
-
+* [分支工作流](http://panfuy.iteye.com/blog/1278865)
 #### Blog
 * [OneV's Den](https://onevcat.com/)
 * [ObjC中国](https://objccn.io/issues/)
@@ -367,6 +369,11 @@ iOS 开发中，总是会看到比较有意思的东西，不断去学习，不�
 * [合并生成模拟器和真机通用的framework](http://msching.github.io/blog/2014/05/05/custom-framework-merging/)
 * [Swift如何打印一个对象的地址](http://www.jianshu.com/p/84f244ec49dd)
 
+### HTTPS适配
+* [关于 iOS 10 中 ATS 的问题](https://onevcat.com/2016/06/ios-10-ats/)
+* [适配HTTPS详细教程](http://www.2cto.com/kf/201611/570823.html)
+* [基本的适配操作](http://www.jianshu.com/p/f312a84a944c)
+* [官方文档中ATS 的一些说明](https://developer.apple.com/library/content/documentation/General/Reference/InfoPlistKeyReference/Articles/CocoaKeys.html#//apple_ref/doc/uid/TP40016240)
 
 
 ### iOS逆向工程
